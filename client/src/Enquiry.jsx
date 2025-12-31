@@ -72,7 +72,7 @@ const Enquiry = () => {
     return (
         <div>
             <ToastContainer/>
-            <h1 className='font-bold text-4xl text-center mb-6'>User Enquiry</h1>
+            <h1 className='font-bold text-4xl text-center mb-6'>User Enquiry Form</h1>
             <div className='grid grid-cols-[30%_auto] gap-5 ml-1'>
                 <div className='bg-gray-800 p-4 rounded-2xl'>
                     <h1 className='text-xl text-white py-3 font-bold'>Enquiry Form</h1>
